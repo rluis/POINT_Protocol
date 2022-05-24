@@ -1,5 +1,5 @@
 # POINT-seq
 
-Profiles the whole transcription units.
+Profiles the whole transcription units of intact nascent RNAs.
 
-![](POINT-seq.png)
+![](POINT_seq.png)
