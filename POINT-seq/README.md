@@ -2,4 +2,4 @@
 
 Profiles the whole transcription units.
 
-![](POINT-seq.png)
+![](POINT_seq.png)
